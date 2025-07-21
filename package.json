@@ -2,5 +2,9 @@
   "devDependencies": {
     "sass": "^1.89.2",
     "sass-loader": "^16.0.5"
-  }
+  },
+
+    "scripts": {
+        "build-css": "sass assets/scss/app.scss assets/styles/app.css"
+    }
 }

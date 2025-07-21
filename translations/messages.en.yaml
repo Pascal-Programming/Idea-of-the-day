@@ -1,1 +1,4 @@
-hello
+header:
+    head.text: "Idea of the Day!"
+
+
